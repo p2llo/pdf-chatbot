@@ -28,8 +28,8 @@ Built with **Streamlit**, **LangChain**, **HuggingFace embeddings**, and **Chrom
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Druva4444/pdf-chatbot-ai.git
-cd pdf-chatbot-ai
+git clone https://github.com/p2llo/pdf-chatbot.git
+cd pdf-chatbot
 ```
 
 ### 2️⃣ Create a virtual environment & activate it
@@ -97,11 +97,6 @@ chat-with-your-pdfs/
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 💡 Future Improvements
 
